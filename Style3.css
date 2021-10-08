@@ -3,28 +3,24 @@ body {
   font-family: "Mulish", sans-serif;
 }
 
-h1 {
-  font-weight: 900;
-}
-h2 {
-  font-weight: 900;
-}
-
-h3 {
-  font-weight: 700;
-}
-
 .mt-6 {
-  margin-top: 64px;
+  margin-top: 100px;
 }
 
-.m-lg-6 {
-  margin-left: 80px;
+.mt-7 {
+  margin-top: 58px;
+}
+.pt-6 {
+  padding-top: 250px;
 }
 
 .btn-blue {
   background-color: #465ba3;
   color: white;
+}
+
+.ms-6 {
+  margin-left: 100px;
 }
 
 .footer {
